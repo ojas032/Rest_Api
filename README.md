@@ -14,14 +14,20 @@ pyhton3 init.py
 #### Open Postman To send or receive data in database:-
 
 ##### Url Format:
-http://127.0.0.1:5000/student/<Name>/<Age>/<Standard> <br>  
+http://127.0.0.1:5000/student/Name/Age/Standard <br>  
 
 Case 1: If the Student is not present in the Database on Get Request it will return {"name":"none"}<br>
+![img1](https://github.com/ojas032/Rest_Api/blob/master/Snapshots/Screenshot%20(59).png)
 
 Case 2: Send the Student in the Database using the Post Request<br>
+![img1](https://github.com/ojas032/Rest_Api/blob/master/Snapshots/Screenshot%20(60).png)
 
 Case 3:If the Student is present in the database on Get Request<br>
+![img1](https://github.com/ojas032/Rest_Api/blob/master/Snapshots/Screenshot%20(61).png)
 
 
+###### DataBase Used :Sqlite<br>
 
+###### For any queries contact me at:-<br>
+###### corpojasltd@gmail.com
 
