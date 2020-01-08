@@ -12,6 +12,9 @@ source venv/bin/activate<br>
 pip3 install -r requirements.txt<br>
 python3 init.py
 
+**Step 3:-**<br>
+Step 3 is same for both<br>
+
 ## Instructions for Windows:-<br>
 **Steps 1:-**<br>
 #### Create Virtual Environment  and Activate It Use the command:-<br>
@@ -22,6 +25,7 @@ rest-env\Scripts\activate.bat<br>
 #### Install all the required libraries:-<br>
 pip install -r requirements.txt<br>
 python init.py
+
 
 **Step 3:-**<br>
 #### Open Postman To send or receive data in database:-
