@@ -2,6 +2,9 @@
 
 ## Instructions For Mac:-<br>
 
+### To install the virtual environment use the command if you have already installed then no need to install it<br>
+pip3 install virtualenv<br>
+
 **Steps 1:-**<br>
 #### Create Virtual Environment  and Activate It Use the command:-<br>
 virtualenv venv<br>
@@ -16,6 +19,10 @@ python3 init.py
 Step 3 is same for both<br>
 
 ## Instructions for Windows:-<br>
+
+### To install the virtual environment use the command if you have already installed then no need to install it<br>
+pip install virtualenv<br>
+
 **Steps 1:-**<br>
 #### Create Virtual Environment  and Activate It Use the command:-<br>
 python3 -m venv rest-env<br>
